@@ -13,3 +13,5 @@ An exploration of machine learning concepts
 ## Watch One Hour Walkthrough
 
 [O'Reilly Core ML](https://learning.oreilly.com/videos/core-machine-learning/628021VIDEOPAIML/628021VIDEOPAIML-c1_s0)
+
+![Core ML](https://user-images.githubusercontent.com/58792/109401377-4f374700-791c-11eb-8509-41768e65eea7.jpg)
